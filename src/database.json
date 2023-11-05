@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "name": "Antons Allcock",
+        "img":"https://images.pexels.com/photos/1317712/pexels-photo-1317712.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "gender": "M",
+        "age": 29,
+        "percentage": 40,
+        "phone": "980-757-4478",
+        "mail": "aallcock0@zdnet.com",
+        "affected_side": "Left",
+        "condition": "Cardio",
+        "speciality": "Neurology",
+        "disease": [
+            "maleriya",
+            "dengu",
+            "tumer"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Marielle Tremoille",
+        "img":"https://images.pexels.com/photos/1493111/pexels-photo-1493111.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "gender": "M",
+        "age": 32,
+        "percentage": 60,
+        "phone": "908-690-1264",
+        "mail": "mtremoille1@netscape.com",
+        "affected_side": "Bilateral",
+        "condition": "Ortho",
+        "speciality": "Osteriorathitics",
+        "disease": [
+            "dengu",
+            "tumer"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Aharon Cornock",
+        "img":"https://images.pexels.com/photos/18891618/pexels-photo-18891618/free-photo-of-blonde-woman-resting-against-wooden-wardrobe-doors.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "gender": "F",
+        "age": 58,
+        "phone": "561-763-0097",
+        "percentage": 80,
+        "mail": "acornock2@sourceforge.net",
+        "affected_side": "Right",
+        "condition": "Gastro",
+        "speciality": "Pulmonology",
+        "disease": [
+            "maleriya"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Collie Errett",
+        "img":"https://images.pexels.com/photos/2269872/pexels-photo-2269872.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "gender": "M",
+        "percentage": 75,
+        "age": 39,
+        "phone": "735-237-7690",
+        "mail": "cerrett3@marketwatch.com",
+        "affected_side": "Right",
+        "condition": "Cardio",
+        "speciality": "Osteriorathitics",
+        "disease": [
+            "dengu",
+            "maleriya"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Laurie Bolgar",
+        "img":"https://images.pexels.com/photos/1524414/pexels-photo-1524414.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "gender": "M",
+        "percentage": 90,
+        "age": 48,
+        "phone": "385-834-2050",
+        "mail": "lbolgar4@sitemeter.com",
+        "affected_side": "Right",
+        "condition": "Neuro",
+        "speciality": "Neurology",
+        "disease": [
+            "maleriya"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Tybalt Kuschel",
+        "img":"https://images.pexels.com/photos/1937434/pexels-photo-1937434.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "gender": "F",
+        "percentage": 80,
+        "age": 34,
+        "phone": "786-246-1602",
+        "mail": "tkuschel5@slideshare.net",
+        "affected_side": "Bilateral",
+        "condition": "Neuro",
+        "speciality": "Gastroenterology",
+        "disease": [
+            "maleriya"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Vachel Cutteridge",
+        "img":"https://images.pexels.com/photos/2748239/pexels-photo-2748239.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "gender": "F",
+        "percentage": 60,
+        "age": 63,
+        "phone": "260-758-5137",
+        "mail": "vcutteridge6@tamu.edu",
+        "affected_side": "Left",
+        "condition": "Neuro",
+        "speciality": "Neurology",
+        "disease": [
+            "tumer"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Joelie Scanterbury",
+        "img":"https://images.pexels.com/photos/3435323/pexels-photo-3435323.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "gender": "F",
+        "percentage": 30,
+        "age": 24,
+        "phone": "919-385-4844",
+        "mail": "jscanterbury7@plala.or.jp",
+        "affected_side": "Bilateral",
+        "condition": "Pulmo",
+        "speciality": "Neurology",
+        "disease": [
+            "dengu",
+            "tumer",
+            "maleriya"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Georgeta Kidney",
+        "img":"https://images.pexels.com/photos/1812634/pexels-photo-1812634.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "gender": "M",
+        "percentage": 80,
+        "age": 58,
+        "phone": "404-227-5774",
+        "mail": "gkidney8@prlog.org",
+        "affected_side": "Bilateral",
+        "condition": "Gastro",
+        "speciality": "Gastroenterology",
+        "disease": [
+            "dengu"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Miles Skidmore",
+        "img":"https://images.pexels.com/photos/2080736/pexels-photo-2080736.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "gender": "F",
+        "percentage": 60,
+        "age": 48,
+        "phone": "324-566-1688",
+        "mail": "mskidmore9@whitehouse.gov",
+        "affected_side": "Bilateral",
+        "condition": "Gastro",
+        "speciality": "Gastroenterology",
+        "disease": [
+            "maleriya",
+            "dengu",
+            "tumer"
+        ]
+    }
+]
